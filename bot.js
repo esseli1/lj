@@ -6,7 +6,7 @@ const prefix = ".";
 // 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("Rainbow , .help .",{type: 'WATCHING'});
+          client.user.setActivity("𝕄𝕠𝟛𝔾𝕫ℤ𝕒",{type: 'WATCHING'});
   
   });// 
 client.on("message", message => {
@@ -52,7 +52,7 @@ r#set
 - To create the role of the Rainbow & Start The Rainbow
 
 خطوات لو الرتبة م أشتغلت .!!
-1- ضع رتبة الرينبو فوق الالوان أو الرتب الملونه لو فيه// Toxic Codes
+1- ضع رتبة الرينبو فوق الالوان أو الرتب الملونه لو فيه//
 2- ضع رتبة البوت فوق رتبة الرينبو
 The steps of the role did not worked .!!// 
 1- Place the role of the Rainbow above the colors or colored ranks if it
